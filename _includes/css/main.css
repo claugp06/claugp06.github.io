@@ -4,7 +4,7 @@
  * For details, see http://www.apache.org/licenses/LICENSE-2.0.
  */
 
-body {
+ body {
     overflow-x: hidden;
 }
 
@@ -24,7 +24,7 @@ a.active {
     outline: 0;
     color: #{{ site.color.primary }};
 }
-z
+
 h1,
 h2,
 h3,
