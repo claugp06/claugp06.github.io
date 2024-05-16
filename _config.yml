@@ -1,5 +1,5 @@
 # Site settings
-title: Claudia Gilabert 
+title: Claudia Gilabert
 email: claugp06@gmail.com
 url: https://claugp06.github.io/
 description: "Estimulando, app para ayudar a los padres en el proceso de crianza."
@@ -27,7 +27,7 @@ disqus_shortname: myshortname
 color:
   primary: 9E3B61
   primary-rgb: "158,59,97"
-  secondary: ffffff
+  secondary: FFFDD
   secondary-dark: 233140
 
 # Footer settings
