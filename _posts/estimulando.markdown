@@ -7,7 +7,5 @@ alt: image-alt
 project-date: May 2024
 category: App Development
 description: Estimulando, una app para ayudarte en el proceso de crianza.¡Seguimiento, estimulación y mucho más!
-download_link: download_link.html
 ---
 
-{% include {{ page.download_link }} %}
