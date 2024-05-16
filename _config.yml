@@ -22,13 +22,14 @@ contact: static
 # If you use disqus you need disqus shortname
 # https://help.disqus.com/customer/portal/articles/466208
 disqus_shortname: myshortname
-
 # Color settings (hex-codes without the leading hash-tag)
 color:
-  primary: 9E3B61
-  primary-rgb: "158,59,97"
-  secondary: FFFDD
-  secondary-dark: 233140
+   primary: 9E3B61
+  primary-rgb: "24,288,156" #"128,179,255"
+  secondary: 2c3e50 #FD6E8A
+  secondary-dark: 233140 #A2122F
+
+
 
 # Footer settings
 footer:
